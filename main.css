@@ -1,0 +1,25 @@
+
+.page {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+p {
+	font-family: "Bad Script", cursive;
+	font-size: 28px;
+	text-align: center;
+	margin-top: 350px;
+	margin-bottom: 350px;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+img {
+	width: 100%;
+}
+
+footer {
+	margin-left: 30px;
+	color: grey;
+}
